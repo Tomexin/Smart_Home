@@ -1,1 +1,1 @@
-# Smart_Home
+#This is Smart_Home project.
